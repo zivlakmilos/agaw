@@ -1,4 +1,6 @@
 {
-  "name": "a_game_a_week_challange",
-  "projects": []
+  "name": "AGAW",
+  "projects": [
+    "game_1_puzzle_slider"
+  ]
 }
