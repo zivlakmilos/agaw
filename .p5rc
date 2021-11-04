@@ -1,6 +1,7 @@
 {
   "name": "AGAW",
   "projects": [
-    "game_1_puzzle_slider"
+    "game01_puzzle_slider",
+    "game02_tic_tac_toe"
   ]
 }
